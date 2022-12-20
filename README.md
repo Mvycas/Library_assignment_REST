@@ -12,9 +12,11 @@
 
 ##GET
 
-`/api/v1/book` Returns all books :-
-`/api/v1/book/{barcode}` Returns book by the barcode :-
-`/api/v1/price/{barcode}` Returns the total price of a specific book :-
+<ul>
+<li>`/api/v1/book` Returns all books</li>
+<li>`/api/v1/book/{barcode}` Returns book by the barcode</li>
+<li>`/api/v1/price/{barcode}` Returns the total price of a specific book</li>
+</ul>
 
 ##POST
 
